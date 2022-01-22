@@ -1,4 +1,4 @@
-package com.arobotv.book.art_of_concurrent_programming.chapter3;
+package com.arobotv.book.art_of_concurrent_programming.chapter2;
 
 import java.util.ArrayList;
 import java.util.List;
